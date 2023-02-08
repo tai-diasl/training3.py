@@ -1,12 +1,10 @@
-# Creating a program that plays Head or Tail
-# I could have chosen the numbers 0 and 1, but I wanted to take the opportunity to use the modulus operator.
+# Head or Tail program
 
 import random
 
-num = random.randint(0, 10)
-#print(num)
+num = random.randint(0, 1)
 
-if num % 2 == 0:
+if num == 0:
     print("Head")
 else:
     print("Tail")
