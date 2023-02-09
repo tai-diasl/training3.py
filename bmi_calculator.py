@@ -1,3 +1,8 @@
+"""
+Body mass index (BMI) is a measure of body fat based on height and weight
+that applies to adult men and women.
+"""
+
 print("| :: | BMI Calculator | :: |\n")
 
 height = float(input("Please, enter your height in m: "))
