@@ -15,7 +15,7 @@ if height >= 120:
     elif age >= 45 and age <= 55:
         age_group = "Special category"
         ticket = 0
-        print("\n** Everything is going to be ok. Have free ride on us. **")
+        print("\n** Everything is going to be ok. Have free ride on us! **")
     else:
         age_group = "Adult"
         ticket = 12
