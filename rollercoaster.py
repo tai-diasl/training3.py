@@ -28,6 +28,5 @@ if height >= 120:
     if photo_lower == "yes":
         ticket += 3
     print(f"\nThe total bill is €{ticket}.")
-
 else:
     print("Sorry, you have to grow taller.")
