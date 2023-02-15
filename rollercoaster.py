@@ -1,4 +1,4 @@
-print("Welcome to the rollercoaster!")
+print("Welcome to the Rollercoaster!")
 
 ticket = 0
 
